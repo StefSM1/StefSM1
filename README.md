@@ -18,7 +18,7 @@
 
 ###
 
-<img data-importer="image" align="left" height="280" src="https://i.pinimg.com/vwebp/736x/24/79/ef/2479efeb2d9d0f6abbf71167d16c8af8.webp"  />
+<img data-importer="image" align="left" height="225" src="https://i.pinimg.com/vwebp/736x/24/79/ef/2479efeb2d9d0f6abbf71167d16c8af8.webp"  />
 
 ###
 
@@ -31,7 +31,7 @@
   <img
     width="17"
     alt="German"
-    src="https://imgs.search.brave.com/xjq_9Ubr-cJ7V1GdofhJtRznMPRRJ712GdyeZuT1_8s/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/Y2l0eXBuZy5jb20v/cHVibGljL3VwbG9h/ZHMvcHJldmlldy9y/b3VuZC1nZXJtYW4t/ZmxhZy1pY29uLWZy/ZWUtcG5nLTczNTgx/MTY5NTgzNTM2OXpj/M2dpNnlhYmMucG5n"
+    src="https://cdn.freebiesupply.com/logos/large/2x/germanyc-logo-png-transparent.png"
   />
   <img
     height="20"
@@ -63,8 +63,8 @@
 <p data-importer="text" align="left">•  I love 🔭space and 🌠stars. I'm interested in 🧲physics and 🔬biology as well</p>
 
 ###
-
-<h2 data-importer="text" align="center">Familiar techs:</h2>
+ㅤ
+<h2 data-importer="techs" align="center"> Familiar techs: </h2>
 
 ###
 
